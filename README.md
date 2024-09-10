@@ -30,7 +30,8 @@ The backend is implemented with Node.js and Express, while the frontend uses HTM
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Akinfolarin-d3v/real-estate-gate-access.git
+    git clone https://github.com/Akinfolarin-d3v/Estate-Gate-Access-Code-raw-file-
+.git
     cd real-estate-gate-access
     ```
 
@@ -66,4 +67,5 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions, open an issue on the [GitHub repository](https://github.com/Akinfolarin-d3v/real-estate-gate-access).
+For questions, open an issue on the [GitHub repository](https://github.com/Akinfolarin-d3v/Estate-Gate-Access-Code-raw-file-
+).
